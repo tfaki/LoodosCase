@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoodosCase</string>
+    <string name="find">FIND</string>
+    <string name="want_to_find">enter the you want to find</string>
+    <string name="alert_warning_title">Warning</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no_result">Sorry\n We couldn\'t find this movie</string>
+    <string name="transition">transition</string>
+    <string name="should_movie_name">You should write a movie name</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012426311489",
+    "firebase_url": "https://loodoscase-d5a59.firebaseio.com",
+    "project_id": "loodoscase-d5a59",
+    "storage_bucket": "loodoscase-d5a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012426311489:android:3df4f17a40a3a1ae9e03c0",
+        "android_client_info": {
+          "package_name": "com.example.loodoscase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012426311489-2rugu1b8829ou00vp8p63b2sktlsvn5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkeONjdXlZHD7WMyY-JutyITzKcRm1i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012426311489-2rugu1b8829ou00vp8p63b2sktlsvn5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
